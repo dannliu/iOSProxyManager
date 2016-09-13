@@ -16,6 +16,4 @@ test_proxy_FRAMEWORKS = UIKit Foundation SystemConfiguration
 
 test_proxy_LDFLAGS = -undefined dynamic_lookup
 
-test_proxy_CODESIGN_FLAGS = -Sentitlements.xml
-
 include $(THEOS_MAKE_PATH)/tool.mk

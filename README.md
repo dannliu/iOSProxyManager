@@ -2,7 +2,7 @@
 
 Only works for jailbreak iOS.
 
-Test for iOS 9.0.2
+Only test for iOS 9.0.2
 
 
 What will comming soon
